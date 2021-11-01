@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
 # ignore .pyc files
 *.pyc 
 *.cpython-37.pyc
+# ignore docs dir
+docs/
 
 # C extensions
 *.so
