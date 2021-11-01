@@ -4,3 +4,4 @@
 ![3rd iteration](docs/3rd-iteration-screenshot.png)
 ![4th iteration](docs/4th-iteration-screenshot.png)
 ![Final Game](docs/4th-iteration-screenshot.png)
+<img src="docs/4th-iteration-screenshot.png" width="200" />
