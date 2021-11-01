@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 # ignore .pyc files
 *.pyc 
+*.cpython-37.pyc
 
 # C extensions
 *.so
