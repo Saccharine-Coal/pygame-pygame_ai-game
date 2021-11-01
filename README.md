@@ -1,4 +1,4 @@
-# pygame-pygame_ai-game
+# pygame-pygame_ai-game Teaching Project
 This repository and game was created for a one time class I taught about creating a simple game world. The goal of this class was to get the students to create a simple game world for a bare-bones pygame I created. The slides I lectured from can be found here: https://github.com/Saccharine-Coal/pygame-pygame_ai-game/blob/main/docs/reddit_slides.pdf
 
 
